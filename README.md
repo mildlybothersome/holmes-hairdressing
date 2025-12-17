@@ -6,18 +6,18 @@ The goal of this project is to create a 3-page responsive website for the indepe
 hairdressers, Holmes Hairdressing.
 The target audience are predominantly females in the South Staffordshire area aged
 25+ that currently don’t follow the hairdresser on social media.
-*
-+Attract new customers by improving SEO
-+Promote personal branding
-+Promote social media pages
-+Increase social media followers
-+Ensure users know how to contact to book an appointment
+
+## Client Goals
++ Attract new customers by improving SEO
++ Promote personal branding
++ Promote social media pages
++ Increase social media followers
++ Ensure users know how to contact to book an appointment
 
 [Link to social media](https://www.instagram.com/holmeshairdressing_/)
 
 ## User Goals
-+ Find out about the hairdresser and whether their location is nearby or can
-accommodate travel.
++ Find out about the hairdresser and whether their location is nearby or can accommodate travel.
 + Whether the hairdresser can do the styles that the client is looking for
 + Be able to read testimonials from previous clients
 + An easy way for the client to be able to book or request an appointment
