@@ -8,7 +8,16 @@ body {
     display: flex;
     flex-direction: column;
 }
-h1, h2, h3 {
+
+h1 {
+    font-family: 'Libertinus Math', serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #000000;
+    text-align: center;
+}
+
+h2, h3 {
     font-family: 'Libertinus Math', serif;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -17,42 +26,8 @@ h1, h2, h3 {
     text-align: center;
 }
 
-p {
-    font-family: 'Roboto', sans-serif';
-    letter-spacing: normal;
-    color: #000000;
-}
-
-
-
-
-/*navbar styles with dropdown toggle*/
-
-nav {
-    position: absolute;
-    background-color: #ffffff;
-    width: 100%;
-    left: 0;
-    box-shadow: 0 2px 2px #333333;
-    padding: 0 1rem;
-    display: none;
-    top: 100%;
-}
-/*nav toggle*/
-#nav-toggle:checked~nav {
-    display: block;
-}
-
-#nav-toggle {
-    display: none;
-}
-
-.nav-toggle-label {
-    font-size: 2rem;
-}
-
 .hero {
-    height: 200px;
+    height: 300px;
     width: 100%;
     background: url("../images/hero-image.jpg") no-repeat center center/cover;
     position: relative;
