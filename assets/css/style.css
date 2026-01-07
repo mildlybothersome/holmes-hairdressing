@@ -7,6 +7,14 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+
+}
+
+footer {
+    background-color: #e2e1df;
+    text-align: center;
+    padding: 1rem;
+
 }
 
 h1 {
@@ -22,8 +30,12 @@ h2, h3 {
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #000000;
-    box-shadow: 0 1px 1px #333333;
+    box-shadow: 0 1px 1px; 
     text-align: center;
+}
+
+.title {
+    font-size: 3rem;
 }
 
 .hero {
@@ -31,5 +43,14 @@ h2, h3 {
     width: 100%;
     background: url("../images/hero-image.jpg") no-repeat center center/cover;
     position: relative;
+}
+
+.header-background-image {
+    background-color: #e2e1df
+}
+
+
+.background-image {
+    background-color: #e9e8e3
 }
 
