@@ -34,8 +34,17 @@ h2, h3 {
     text-align: center;
 }
 
-.title {
-    font-size: 3rem;
+p {
+    text-align: center;
+}
+
+.page-header {
+    height: 200px;
+    width: 100%;
+}
+
+.logo {
+
 }
 
 .hero {
