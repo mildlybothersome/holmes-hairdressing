@@ -43,7 +43,9 @@ p {
     width: 100%;
 }
 
-.logo {
+.company-logo {
+    height: 50px;
+    width: 50px;
 
 }
 
@@ -63,3 +65,28 @@ p {
     background-color: #e9e8e3
 }
 
+.contact-form {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#form-container {
+    max-width: 1320px;
+    margin: 0;
+    padding: 5%;
+}
+
+form {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 100px 0;
+}
+input, textarea {
+    display: block;
+    margin: 0 auto;
+    background-color: transparent;
+
+}
