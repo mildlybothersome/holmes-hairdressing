@@ -73,15 +73,19 @@ contrast as well as visibility. ,
 colours that contrast well but also fit in with their branding. #bd7777 #a28f91
 
 ### Styling
-
 + Borders: Sections will be split up with lines to show spacing. 
-+
+
 ### Icons
 + The icons used will be ones that are well and visually represent the action associated. Favicons will be used.  
 
-### Backgrounds
-
 ## Wireframes
++ [Mobile home page](https://github.com/mildlybothersome/holmes-hairdressing/blob/main/assets/wireframes/Mobile%20home%20wireframe.png)
++ [Mobile gallery page](https://github.com/mildlybothersome/holmes-hairdressing/blob/main/assets/wireframes/Mobile%20gallery%20wireframe.png)
++ [Mobile contact page](https://github.com/mildlybothersome/holmes-hairdressing/blob/main/assets/wireframes/Mobile%20contact%20wireframe.png)
+
++ [Desktop home page](https://github.com/mildlybothersome/holmes-hairdressing/blob/main/assets/wireframes/desktop%20home%20wireframe.png)
++ [Desktop gallery page](https://github.com/mildlybothersome/holmes-hairdressing/blob/main/assets/wireframes/desktop%20gallery%20wireframe.png)
++ [Desktop contact page](https://github.com/mildlybothersome/holmes-hairdressing/blob/main/assets/wireframes/desktop%20contact%20wireframe.png)
 
 ## Features
 
