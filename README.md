@@ -74,13 +74,27 @@ colours that contrast well but also fit in with their branding. #bd7777 #a28f91
 
 ### Styling
 
-+ Borders:
++ Borders: Sections will be split up with lines to show spacing. 
 +
 ### Icons
-+ The icons used will be ones that are well and visually represent the action associated. 
++ The icons used will be ones that are well and visually represent the action associated. Favicons will be used.  
 
 ### Backgrounds
 
 ## Wireframes
 
 ## Features
+
++ Responsive site across devices
++ Nav links for all pages
++ Map section
++ Contact form
++ Social media links
+
+## Bugs
+
++ Found issue where the box for h2 section Where to find Us section wouldn't stretch all the way to the end of the screen like the others. 
+
+## Fixes
+
++ Used inspect element on browser and lead to believe that h2 was contained within another segment. Looked in the index code and saw that closing tag for the testimonial section was missing. 
