@@ -38,16 +38,16 @@ p {
     text-align: center;
 }
 
+li {
+    text-align: center;
+    list-style-type: none;
+}
+
 .page-header {
     height: 200px;
     width: 100%;
 }
 
-.company-logo {
-    height: 50px;
-    width: 50px;
-
-}
 
 .hero {
     height: 300px;
